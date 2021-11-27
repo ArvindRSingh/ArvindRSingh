@@ -6,9 +6,9 @@ DevOps lead specializing in:
 
 Also been ASP.NET web application lead with a demonstrated history of working in the computer software industry. Skilled in C# | ASP.NET | .NET Core | LINQ | SQL | ASP.NET Web API | ASP.NET MVC | Entity Framework | Azure | Node.js
 
-- :book: I'm currently reading High Performance Output by Andrew S. Grove
 - 👯 I’m looking to collaborate on business plan, web application development, infrastructure cost optimization
-- 🤔 I’m looking for help on how to get 8 hours of sleep in 4 hours
 - 💬 Ask me about web application, deployment, hosting, DevOps, automation, learning and career
+- :book: I'm currently reading High Performance Output by Andrew S. Grove
 - 📫 Reach me on https://www.linkedin.com/in/arvindrsingh/
-- ⚡ Fun fact: What fun would it be if everyone was made equal
+- 🤔 I’m looking for help on how to get 8 hours of sleep in 4 hours
+- ⚡ Fun fact: What fun would it be if everyone was made equal or had same amount of money?
