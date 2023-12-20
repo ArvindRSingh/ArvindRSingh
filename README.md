@@ -12,7 +12,7 @@ Also been a DevOps lead specializing in:
 - 📫 Reach me on https://www.linkedin.com/in/arvindrsingh/
 - 🤔 I’m looking for help on how to get 8 hours of sleep in 4 hours
 - ⚡ Fun fact: What fun would it be if everyone was made equal or had same amount of money?
-
+- Don't forget to check [Semicolon.today](https://semicolon.today) for programming related articles and news
 ### Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
