@@ -8,7 +8,7 @@ Also been a DevOps lead specializing in:
 
 - 👯 I’m looking to collaborate on business plan, web application development, infrastructure cost optimization
 - 💬 Ask me about web application, deployment, hosting, DevOps, automation, learning and career
-- :book: I'm currently reading High Performance Output by Andrew S. Grove
+- :book: Recently read High Performance Output by Andrew S. Grove
 - 📫 Reach me on https://www.linkedin.com/in/arvindrsingh/
 - 🤔 I’m looking for help on how to get 8 hours of sleep in 4 hours
 - ⚡ Fun fact: What fun would it be if everyone was made equal or had same amount of money?
